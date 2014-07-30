@@ -1,0 +1,21 @@
+Robot
+		ID: Starter Kit 2.0_R0
+				Sensor
+						ID: Parallax PING)))_S0
+				Joint
+						ID: Left Joint
+						ID: Right Joint
+						ID: Omni Joint
+						ID: Servo Joint
+				Actuator
+						ID: Left Motor
+						ID: Right Motor
+						ID: Servo
+				Robot Component
+						ID: Body Frame
+						ID: Left Wheel
+						ID: Right Wheel
+						ID: Omni Wheel
+
+
+Obstacle
